@@ -1,0 +1,1 @@
+Asterios is a PHP-boilerplate/framework for small websites. Anax was built by Johan Salomonsson.
